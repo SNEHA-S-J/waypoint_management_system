@@ -1,0 +1,15 @@
+{
+    "name": "google-maps-waypoints",
+    "version": "1.0.0",
+    "description": "Waypoint Management with Google Maps",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
